@@ -1,4 +1,3 @@
-markdown
 # Bitcoin Price Checker
 
 This simple Python script retrieves the current price of Bitcoin in USD and calculates the value of a specified quantity of Bitcoin. It utilizes the CoinDesk API to fetch the latest Bitcoin price.
